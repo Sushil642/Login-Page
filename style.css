@@ -1,0 +1,62 @@
+body
+{
+    background-image: url("https://t4.ftcdn.net/jpg/04/60/71/01/360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.jpg");
+}
+.main
+{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    background-image: url("https://img.pikbest.com/backgrounds/20190712/technology-hud-login-information-background_2848383.jpg!bw700");
+    justify-content: center;
+    align-items: center;
+    border-radius: 25%;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+    box-shadow: 0px 0px  5px 0px whitesmoke;
+}
+em{
+    color: blanchedalmond;
+}
+.footer
+{
+    color: white;
+}
+email
+{
+    color: white;
+    position: absolute;
+    right: 0px;
+}
+phone
+{
+    color: white;
+    position: absolute;
+    right: 230px;
+}
+
+.form
+{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.detail
+{
+    padding-bottom: 5px;
+}
+
+input:focus
+{
+    width: 200px;
+    height: 20px;
+    box-shadow: 0px 3px 3px 0px whitesmoke;
+}
+.home
+{
+    border-radius: 10%;
+}
+
